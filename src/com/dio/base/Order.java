@@ -4,20 +4,18 @@ public class Order {
 	
 	private final String code;
 	private final int totalValue;
+	private String[] items;
 	
 	public Order (String code, int totalValue) {
 		this.code = code;
 		this.totalValue = totalValue;
 	}
 
-	public double calculateFee () {
-		switch (totalValue) {
-		case 100:
-			return totalValue * 0.99;
-		case 200:
-			return totalValue * 1.99;
-		default:
-			return totalValue;
+	public void printItems () {
+		int i = 0;
+		while (i < items.length) {
+			System.out.println(items[i]);
+			i++;
 		}
 	}
 }
