@@ -5,7 +5,7 @@ import com.dio.base.Order;
 public class MyFirstProgram {
 
 	public static void main(String[] args) {
-		final Order order = new Order ("code", 99.99);
+		final Order order = new Order ("code", 99);
 		System.out.println(order);
 	}
 }
