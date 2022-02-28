@@ -6,6 +6,6 @@ Aulas:
 
 2- Tipos de dado :chart:
 
-3- Operadores Aritméticos :construction:
+3- Operadores Aritméticos :chart:
 
 4- Conversões :construction:
