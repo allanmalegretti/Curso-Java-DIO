@@ -1,11 +1,3 @@
-Curso:
-Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+Estudo dos exercicios:
 
-Aulas:
-1- Conceituação e Criação  :chart:
-
-2- Tipos de dado :chart:
-
-3- Operadores Aritméticos :chart:
-
-4- Conversões :chart:
+Calculadora, Empréstimo, Mensagem e Quadrilátero
