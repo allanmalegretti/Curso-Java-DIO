@@ -7,3 +7,6 @@ Nome e Idade, Nota, Maior e Media, Par e Impar, Tabuada, Fatorial.
 
 Exercícios de Arrays:
 Ordem Inversa, Consoantes, Numeros Aleatorios, Array Multidimensional.
+
+Exercícios de Programaçao Orientada a Objetos:
+Estrutura Básica.
